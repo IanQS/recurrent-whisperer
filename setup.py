@@ -15,7 +15,7 @@ setup(
         'matplotlib >= 2.2.3',
         'pyyaml >= 3.13'
     ],
-    extras_require = [
+    extras_require = {
         'tensorflow >= 1.14.0'
-    ]
+    }
 )
